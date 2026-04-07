@@ -1,3 +1,5 @@
+# read the file in code mode do nto read in preview mode.
+
 HRTF-DSP-Assignment
 A Python implementation of HRTF-based spatial audio rendering using the CIPIC HRTF database. 
 This project renders a mono audio signal to different 3D positions by convolving it with subject-specific Head-Related Impulse Responses (HRIRs).
