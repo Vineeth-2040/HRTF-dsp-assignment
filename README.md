@@ -21,14 +21,8 @@ HRTF-dsp-assignment/
 Dependencies
 bashpip install numpy scipy pydub
 
-How to Run
-
-Clone the repository
-
-bashgit clone https://github.com/yourusername/HRTF-dsp-assignment
-
 Download the CIPIC HRTF database .mat file from CIPIC and place it in the project folder
-Open hrtf_spatial_audio.ipynb in Jupyter Notebook or VS Code and run all cells
+Open implmentation_of_hrtf.ipynb in Jupyter Notebook or VS Code and run all cells
 
 Reference
 Algazi, V. R., Duda, R. O., Thompson, D. M., & Avendano, C. (2001). The CIPIC HRTF Database. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics.
